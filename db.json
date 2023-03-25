@@ -21,5 +21,6 @@
             "ticket" : 200
         }
     ],
-    "users" : []
+    "users" : [],
+    "booked" : []
 }
